@@ -1,0 +1,22 @@
+.sidebar-menu{
+    width: 300px !important;
+}
+.banner{
+    display: flex;
+  
+   
+}
+.banner-item{
+  flex-basis: 50%;
+  border: 1px solid;
+}
+.banner2{
+    display:inline;
+    flex-direction: row;
+}
+.item{
+    display: inline;
+    border: 1px solid  ;
+     height: 100px;
+    width: 100px;
+}
